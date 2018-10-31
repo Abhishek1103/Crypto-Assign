@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/client/Messenger.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/data_schema/Message.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/test/DigSigTest/DigSig.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/server/FileServer.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/test/DigSigTest/Test.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/client/ReceiveHandler.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/client/Login.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/utility/SaveFile.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/server/FileServerHandler.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/test/DigSigTest/DES_test.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/server/BroadCast.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/server/StartUpClass.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/server/ClientHandler.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/encryption/AES.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/utility/InitialKeyExchange.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/server/Client.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/encryption/DigitalSignature.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/encryption/RSA.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/crypto/assign/server/Server.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/utility/SendFile.java</file>
+            <file>file:/home/aks/NetBeansProjects/Crypto-Assign/src/encryption/DES.java</file>
+        </group>
+    </open-files>
+</project-private>
